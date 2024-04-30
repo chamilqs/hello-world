@@ -1,4 +1,4 @@
-consoleText(['Hello World.', 'Samil Quezada Suriel', 'C#', '.NET', 'Python', 'Leo Messi ⚽'], 'text',['tomato','rebeccapurple','lightblue']);
+consoleText(['Hello World.', 'Samil Quezada', 'C#', '.NET', 'Python', 'Leo Messi ⚽'], 'text',['tomato','rebeccapurple','lightblue']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
